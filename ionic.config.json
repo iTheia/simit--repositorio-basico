@@ -1,0 +1,7 @@
+{
+  "name": "simit",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
